@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://discord.gg/cBsemkYsGR"><img src="https://img.shields.io/discord/1046753288210616341?logo=discord"></a>
-  <a href="https://github.com/Art1ord/disnake-template-1.0/releases"><img src="https://img.shields.io/github/v/release/Art1ord/disnake-template-1.0"></a>
-  <a href="https://github.com/Art1ord/disnake-template-1.0/main"><img src="https://img.shields.io/github/last-commit/Art1ord/disnake-template-1.0"></a>
-  <a href="https://github.com/Art1ord/disnake-template-1.0/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/Art1ord/disnake-template-1.0"></a>
-  <a href="https://github.com/Art1ord/disnake-template-1.0"><img src="https://img.shields.io/github/languages/code-size/Art1ord/disnake-template-1.0"></a>
+  <a href="https://github.com/Art1ord/disnake-template/releases"><img src="https://img.shields.io/github/v/release/Art1ord/disnake-template"></a>
+  <a href="https://github.com/Art1ord/disnake-template/main"><img src="https://img.shields.io/github/last-commit/Art1ord/disnake-template"></a>
+  <a href="https://github.com/Art1ord/disnake-template/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/Art1ord/disnake-template"></a>
+  <a href="https://github.com/Art1ord/disnake-template"><img src="https://img.shields.io/github/languages/code-size/Art1ord/disnake-template"></a>
 
 Этот репозиторий представляет собой шаблон, который каждый может использовать для создания своего Discord-бота.
 
@@ -16,7 +16,7 @@
  - Сохранить авторство и ссылку на этот репозиторий во всех файлах, содержащих мой код.
  - Сохранить ту же лицензию для неизмененного кода.
   
-Дополнительную информацию можно найти в файле [лицензии](https://github.com/Art1ord/disnake-template-1.0/blob/master/LICENSE.md). Я оставляю за собой право удалить любой репозиторий, который не соответствует этим требованиям.
+Дополнительную информацию можно найти в файле [лицензии](https://github.com/Art1ord/disnake-template/blob/master/LICENSE.md). Я оставляю за собой право удалить любой репозиторий, который не соответствует этим требованиям.
 
  ## Поддержка
 
@@ -65,9 +65,9 @@
 
 ## Лицензия
 
-Этот проект лицензируется под [MIT License]. Подробности можно узнать в файле [LICENSE](https://github.com/Art1ord/disnake-template-1.0/blob/main/LICENSE).
+Этот проект лицензируется под [MIT License]. Подробности можно узнать в файле [LICENSE](https://github.com/Art1ord/disnake-template/blob/main/LICENSE).
 
 
 <div align="center">
-  <img src="https://github.com/Art1ord/disnake-template-1.0/blob/main/assets/Banner.jpg">
+  <img src="https://github.com/Art1ord/disnake-template/blob/main/assets/Banner.jpg">
 </div>
