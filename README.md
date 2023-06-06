@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://discord.gg/cBsemkYsGR"><img src="https://img.shields.io/discord/1046753288210616341?logo=discord"></a>
-  <a href="https://github.com/Art1ord/disnake-template/releases"><img src="https://img.shields.io/github/v/release/Art1ord/disnake-template"></a>
+  <a href="https://github.com/Art1ord/disnake-template/releases"><img src="https://img.shields.io/github/v/releases/Art1ord/disnake-template"></a>
   <a href="https://github.com/Art1ord/disnake-template/main"><img src="https://img.shields.io/github/last-commit/Art1ord/disnake-template"></a>
   <a href="https://github.com/Art1ord/disnake-template/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/Art1ord/disnake-template"></a>
   <a href="https://github.com/Art1ord/disnake-template"><img src="https://img.shields.io/github/languages/code-size/Art1ord/disnake-template"></a>
